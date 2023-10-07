@@ -1,0 +1,62 @@
+{
+  "version": "5",
+  "dialect": "pg",
+  "entries": [
+    {
+      "idx": 0,
+      "version": "5",
+      "when": 1696373520398,
+      "tag": "0000_talented_monster_badoon",
+      "breakpoints": true
+    },
+    {
+      "idx": 1,
+      "version": "5",
+      "when": 1696374779003,
+      "tag": "0001_cheerful_warhawk",
+      "breakpoints": true
+    },
+    {
+      "idx": 2,
+      "version": "5",
+      "when": 1696374861848,
+      "tag": "0002_wandering_silver_surfer",
+      "breakpoints": true
+    },
+    {
+      "idx": 3,
+      "version": "5",
+      "when": 1696395416926,
+      "tag": "0003_young_talon",
+      "breakpoints": true
+    },
+    {
+      "idx": 4,
+      "version": "5",
+      "when": 1696456101169,
+      "tag": "0004_gifted_black_bolt",
+      "breakpoints": true
+    },
+    {
+      "idx": 5,
+      "version": "5",
+      "when": 1696565143694,
+      "tag": "0005_red_jack_power",
+      "breakpoints": true
+    },
+    {
+      "idx": 6,
+      "version": "5",
+      "when": 1696616812968,
+      "tag": "0006_thick_night_thrasher",
+      "breakpoints": true
+    },
+    {
+      "idx": 7,
+      "version": "5",
+      "when": 1696647659348,
+      "tag": "0007_superb_doctor_strange",
+      "breakpoints": true
+    }
+  ]
+}

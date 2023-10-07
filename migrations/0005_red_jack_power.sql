@@ -1,0 +1,1 @@
+ALTER TABLE "spaceUsers" ALTER COLUMN "role" SET NOT NULL;
