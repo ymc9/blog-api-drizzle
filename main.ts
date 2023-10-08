@@ -168,8 +168,11 @@ async function main() {
             )
             .where(
                 or(
-                    // 1. published
-                    eq(posts.published, true),
+                    // 1. published and current user is a member of the space
+                    and(
+                        eq(posts.published, true),
+                        eq(spaceUsers.userId, req.uid!)
+                    ),
                     // 2. authored by the current user
                     eq(posts.authorId, req.uid!),
                     // 3. belongs to space owned by the current user
